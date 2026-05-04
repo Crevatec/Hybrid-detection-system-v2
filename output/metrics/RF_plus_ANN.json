@@ -1,0 +1,25 @@
+{
+  "model_name": "RF + ANN",
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "f1_macro": 1.0,
+  "confusion_matrix": [
+    [
+      13983,
+      0,
+      0
+    ],
+    [
+      0,
+      2978,
+      0
+    ],
+    [
+      0,
+      0,
+      3039
+    ]
+  ]
+}
